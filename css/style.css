@@ -22,7 +22,7 @@ body {
     background: #e5e5e5;
 }
 .header {
-    background: #FA8C16;
+    background: #1cb752;
     padding: 16px 0 16px 0;
     box-shadow: 0 2px 8px rgba(0, 0, 0, .15);
     margin-bottom: 30px;
@@ -241,7 +241,7 @@ body {
     border-right: 3px solid #faad14;
 }
 .button {
-    background: #faad14;
+    background: #1cb752;
     border: none;
     border-radius: 4px;
     text-decoration: none;
@@ -253,16 +253,16 @@ body {
 .button-outline {
     height: 45px;
     background: #fff;
-    border: 1px solid #ffc53d;
+    border: 1px solid #1cb752;
     border-radius: 4px;
-    color: #ffc53d;
+    color: #1cb752;
     padding: 0 16px;
     cursor: pointer;
 }
 .button-outline .icon {
     width: 14px;
     height: 11px;
-    fill: #ffc53d;
+    fill: #1cb752;
 }
 .button-new-post {
     display: flex;
